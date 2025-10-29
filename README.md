@@ -9,5 +9,9 @@ Thanks to cache storing, this script is fast, here is the snippet of code for ca
 
 <img width="1294" height="1004" alt="immagine" src="https://github.com/user-attachments/assets/fe9d9899-1acd-458f-90aa-88a1ac8d3656" />
 
+## Installation
+`cd src`
+`pip install -r requirements.txt`
+
 ### Note
 The IP 192.168.1.1 is being marked as "Local Host", in reality it is a private ip, but I was lazy to write that line of code...
